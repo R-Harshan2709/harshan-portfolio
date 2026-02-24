@@ -1,8 +1,8 @@
-# 🚀 Personal Developer Portfolio – SUBASH S
+# 🚀 Personal Developer Portfolio – HARSHAN R
 
 Welcome to my developer portfolio!
 
-This portfolio was **fully designed and developed by me**, Subash S, to showcase my skills, projects, and technical journey as a software developer and AI enthusiast. The goal was to create a clean, responsive, and FAANG-level portfolio with smooth transitions, animations, and an exceptional user experience.
+This portfolio was **fully designed and developed by me**, Harshan R, to showcase my skills, projects, and technical journey as a software developer and AI enthusiast. The goal was to create a clean, responsive, and FAANG-level portfolio with smooth transitions, animations, and an exceptional user experience.
 
 ---
 
@@ -34,7 +34,22 @@ Built using the latest technologies:
 To run this project locally:
 
 ```bash
-git clone 
-cd 
+git clone https://github.com/R-Harshan2709/harshan-portfolio.git
+cd harshan-portfolio
 npm install
 npm run dev
+```
+
+---
+
+## 📬 Connect With Me
+
+Feel free to reach out or explore more of my work!
+
+- 🔗 **GitHub**: [R-Harshan2709](https://github.com/R-Harshan2709)
+
+---
+
+## 📄 License
+
+This project is open-source and available under the [MIT License](LICENSE).
